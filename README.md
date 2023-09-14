@@ -17,4 +17,6 @@ care support, request fulfilment, auto categorizing tickets as high
 priority for quick resolutions any questions they may have etc.,
 
 ## CONCLUSION:
+Best Model : RandomForest Classifier - Accuracy is 94%
+
 Identifying and prioritizing customers with a "CHURN-FLAG YES" status is a proactive approach to address potential churn and enhance the overall customer experience. By focusing on this segment, we can anticipate their needs and provide tailored support to improve retention and satisfaction. Implementing strategies such as enhanced customer care support, efficient request fulfillment, and quick resolution of high-priority tickets will not only reduce churn but also foster a loyal customer base. This data-driven approach underscores our commitment to delivering exceptional service and maximizing customer lifetime value.
